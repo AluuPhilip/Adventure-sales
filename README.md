@@ -67,7 +67,7 @@ Based on the insights gathered from the dashboard, here are some recommendations
    - Bundling high-selling items like **Mountain Tires** with related accessories or offering discounts on bundles can drive up total order volumes and enhance customer satisfaction.
 
 ## Data Source
-The data was sourced from *Kaggle_Dataset**, a popular dataset for sales and product analysis.
+The data was sourced from *Kaggle_Dataset*, a popular dataset for sales and product analysis.
 
 ## Conclusion
 The Adventure Sales Dashboard provides a detailed view of sales performance across different regions and product categories. The insights gained from this dashboard help identify high-performing products, key revenue-driving regions, and customer growth trends, providing valuable information for business decision-making.
