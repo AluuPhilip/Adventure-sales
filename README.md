@@ -3,7 +3,8 @@
 ## Project Overview
 This project focuses on analyzing and visualizing sales data for AdventureWorks over a period from 2005 to 2008. The dashboard provides insights into customer growth, product performance, regional sales, and profitability. The data was prepared and processed using **Excel**, **Python**, and **SQL**, and visualized using **Power BI** to create an interactive and informative dashboard.
 "C:\Users\ALUU PHILIP\Pictures\Screenshots\Screenshot 2024-05-02 184002.png"
-## Tools Used
+[Screenshot 2024-05-02 184002](https://github.com/user-attachments/assets/5acef661-a939-46d7-a661-fd7314b04c8a)
+## Tools Used!
 - **Excel**: For initial data exploration, cleaning, and preprocessing.
 - **Python**: For more complex data manipulation, transformations, and analysis.
 - **SQL**: For querying the database, extracting insights, and aggregating sales information.
